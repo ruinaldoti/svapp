@@ -1,0 +1,10 @@
+#MySQL
+spring.datasource.url=jdbc:mysql:localhost:3386/svapp?createDatabaseIfNotExist=true
+spring.datasource.username=root
+spring.datasource.password=
+
+
+#JPA
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.open-in-view=true
